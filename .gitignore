@@ -1,0 +1,14 @@
+source-wsq/
+assessment/
+**/assessment/
+.claude/
+.env
+.env.*
+courseware/archive/
+*.tmp
+~$*
+.DS_Store
+._*
+Thumbs.db
+__pycache__/
+.build/
